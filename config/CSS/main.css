@@ -1,0 +1,483 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    
+}
+
+#navb a:link, a:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 100px;
+    border-bottom: thick solid #A4A4A4;
+    border-width: 3px;
+    border-color: white;
+    font-family: Rockwell;
+    margin-right: 50px;
+  
+}
+
+#navb a:hover, a:active {
+    background-color: BBC0CC;
+    
+}
+
+#navb
+{
+    
+    margin-left:100px;
+}
+
+
+
+#c1 {
+    
+	width: 250px;
+	height: 250px;
+	background-color: black;
+	border-radius: 250px;
+	border-style: solid;
+	border-width: 8px;
+    border-color: #A4A4A4;
+    background-image: url(/config/Images/p12bw.jpg);
+   
+
+    
+}
+
+
+#c1:hover, #c1:active
+{ 
+    background-image: url(/config/Images/p12.jpg);
+    
+}
+#c1 a{
+    
+    color: white;
+    
+}
+
+
+
+#c2 {
+    
+	width: 250px;
+	height: 250px;
+	background-color: black;
+	border-radius: 250px;
+	border-style: solid;
+	border-width: 8px;
+    border-color: #A4A4A4;
+     background-image: url(/config/Images/safcbw.jpg);
+
+    
+}
+#c2:hover, #c2:active
+{ 
+    background-image: url(/config/Images/safc1.jpg);
+    
+}
+#c3 {
+    
+    
+	width: 250px;
+	height: 250px;
+	background-color: black;
+	border-radius: 250px;
+	border-style: solid;
+	border-width: 8px;
+    border-color: #A4A4A4;
+    background-image: url(/config/Images/pygs.jpg);
+
+    
+}
+#c3:hover, #c3:active
+{ 
+    background-image: url(/config/Images/py.jpg);
+    
+}
+#c4 {
+  
+	width: 250px;
+	height: 250px;
+	background-color: black;
+	border-radius: 250px;
+	border-style: solid;
+	border-width: 8px;
+    border-color: #A4A4A4;
+    background-image: url(/config/Images/htmlgs.png);
+
+    
+}
+#c4:hover, #c4:active
+{ 
+    background-image: url(/config/Images/html.png);
+    
+}
+#c5 {
+  
+	width: 250px;
+	height: 250px;
+	background-color: black;
+	border-radius: 250px;
+	border-style: solid;
+	border-width: 8px;
+    border-color: #A4A4A4;
+    background-image: url(/config/Images/);
+
+    
+}
+#c5:hover, #c5:active
+{ 
+    background-image: url(/config/Images/);
+    
+}#c6 {
+  
+	width: 250px;
+	height: 250px;
+	background-color: black;
+	border-radius: 250px;
+	border-style: solid;
+	border-width: 8px;
+    border-color: #A4A4A4;
+    background-image: url(/config/Images/);
+
+    
+}
+#c6:hover, #c6:active
+{ 
+    background-image: url(/config/Images/);
+    
+}
+
+#wrapper {
+    background-color: #3B3E45;
+   
+    
+}
+
+#footer {
+    background-color: #3B3E45;
+     border-top: thick solid BBC0CC;
+    
+}
+#formid {
+    color: white;
+}
+#contact-form {
+    
+    color: white;
+    
+    
+    
+}
+
+#mc {
+    
+    Width: 400px;
+    Height: 250px;
+    
+    border-radius: 30px;
+    border-style: solid;
+	border-width: 8px;
+    border-color: #A4A4A4;
+    
+}
+#first {
+    
+    Width: 400px;
+    Height: 250px;
+    
+    border-radius: 30px;
+    border-style: solid;
+	border-width: 8px;
+    border-color: #A4A4A4;
+    
+}
+
+#sun {
+    
+    Width: 400px;
+    Height: 250px;
+    margin:20px 0px 20px 0px;
+    border-radius: 30px;
+    border-style: solid;
+	border-width: 8px;
+    border-color: #A4A4A4;
+    
+}
+
+#comp {
+    
+    Width: 400px;
+    Height: 250px;
+    margin:20px 0px 20px 0px;
+    border-radius: 30px;
+    border-style: solid;
+	border-width: 8px;
+    border-color: #A4A4A4;
+    
+}
+#text {
+    margin:20px 0px 20px 0px;
+}
+
+#text1 {
+    margin:20px 0px 20px 0px;
+    
+    
+}
+
+#textdown p{
+    margin-top: 40px;
+}
+#textdown2 {
+    margin-top: 20px;
+}
+#textdown3 {
+    
+    margin: 0px 0px 0px 70px;
+}
+
+#textdown4 {
+    margin-top: 20px;
+}
+
+#panel, #flip {
+    width:87%;
+    padding: 5px;
+    text-align: center;
+    background-color:#3B3E45;
+    border: solid 5px  #A4A4A4;
+    border-radius: 15px;
+    color: white;
+    margin: 20px 0px 0px 0px;
+    opacity: 0.8;
+    
+    
+    
+    
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+    opacity: 0.8;
+    width:68%;
+    height: 93px;
+}
+#panel1, #flip1 {
+    width:395px;
+    padding: 5px;
+    text-align: center;
+    background-color:#3B3E45;
+    border: solid 5px  #A4A4A4;
+    border-radius: 15px;
+    color: white;
+    margin: 20px 0px 0px 0px;
+     opacity: 0.8;
+    
+    
+    
+    
+}
+
+#panel1 {
+    padding: 50px;
+    display: none;
+    opacity: 0.8;
+    width:90%;
+    height: 93px;
+}
+#panel2, #flip2 {
+    width:87%;
+    padding: 5px;
+    text-align: center;
+    background-color:#3B3E45;
+    border: solid 5px  #A4A4A4;
+    border-radius: 15px;
+    color: white;
+    margin: 20px 0px 0px 0px;
+     opacity: 0.8;
+    
+    
+    
+    
+}
+
+#panel2 {
+    padding: 50px;
+    display: none;
+    opacity: 0.8;
+    width:68%;
+    height: 93px;
+}
+
+#line {
+    
+    border-bottom: thin solid #A4A4A4;
+     opacity: 0.7;
+}
+#contact-form2 {
+    margin-top: 500000px;
+}
+
+#h31 h4
+{
+    color: #3B3E45;
+    font-family: Rockwell;
+    
+
+}
+
+#h22 h2 {
+    
+    color: #3B3E45;
+}
+
+
+#h31 a:link {
+    color:#3B3E45;
+    background-color:transparent;
+    text-decoration:none;
+}
+#h31 a:visited {
+    color:#3B3E45;
+    background-color:transparent;
+    text-decoration:none;
+}
+#h31 a:hover {
+    color:#A4A4A4;
+    background-color:transparent;
+    text-decoration:underline;
+}
+#h31 a:active {
+    color:#A4A4A4;
+    background-color:transparent;
+    text-decoration:underline;
+}
+
+#navb2 {
+    text-decoration:none;
+    text-align:center;
+    color:white;
+}
+
+#navb2 ul, li, a{
+    text-decoration:none;
+    text-align:center;
+    color:white;
+}
+
+p
+{
+    
+    font-family: Rockwell;
+    padding:10px;
+    color: white;
+    
+}
+
+#title h4
+{
+    
+    color: white;
+    font-family: Rockwell;
+}
+
+#title
+
+{
+    
+    padding: 15px;
+    background-color:#3B3E45;
+    border: solid 5px  #A4A4A4;
+    border-radius: 15px;
+    opacity: 0.8; 
+    margin-top: 25px;
+    
+}
+
+#title a
+
+{
+    
+    color: white;
+    font-family: Rockwell;
+    
+}
+#title a:link {
+    color:white;
+    background-color:transparent;
+    text-decoration:none;
+}
+#title a:visited {
+    color:white;
+    background-color:transparent;
+    text-decoration:none;
+}
+#title a:hover {
+    color: black;
+    background-color:transparent;
+    text-decoration:underline;
+}
+#title a:active {
+    color: black;
+    background-color:transparent;
+    text-decoration:underline;
+}
+#port
+{
+    
+    background-color:white;
+}
+#contact
+{
+    
+    background-color:6295FF;
+}
+#about
+{
+    background-color: 3B3E45;
+    
+}
+
+#home
+
+{
+    
+     background-color:6295FF;
+    
+}
+#about1
+
+{
+    border-radius: 30px;
+    border-style: solid;
+	border-width: 8px;
+    border-color: #A4A4A4;
+    border-color:white;
+    
+    
+}
+
+#contact1
+{
+    
+    border-radius: 30px;
+    border-style: solid;
+	border-width: 8px;
+    border-color: #A4A4A4;
+    border-color:white;
+}
